@@ -6,6 +6,7 @@ class SubSignalhub {
   constructor(instance, prefix) {
     this._instance = instance
     this._prefix = prefix
+    this.app = instance.app + this._prefix;
   }
 
   subscribe(channel) {
