@@ -1,0 +1,26 @@
+{
+  "name": "sub-signalhub",
+  "version": "1.0.0",
+  "description": "Prefix channels in a signalhub instance to reuse a single connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/sub-signalhub.git"
+  },
+  "keywords": [
+    "signalhub",
+    "proxy",
+    "sub",
+    "signaling",
+    "channel"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/sub-signalhub/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/sub-signalhub#readme"
+}
