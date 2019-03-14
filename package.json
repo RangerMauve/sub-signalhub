@@ -1,6 +1,6 @@
 {
   "name": "sub-signalhub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prefix channels in a signalhub instance to reuse a single connection",
   "main": "index.js",
   "scripts": {
